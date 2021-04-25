@@ -1,0 +1,13 @@
+#main-content {
+  height: 100vh;
+  padding-top: 2%;
+}
+.card-body > div {
+  padding: 1%;
+}
+#photo-div {
+  width: 100%;
+}
+#accordionResumeContent {
+  width: 100%;
+}
